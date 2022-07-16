@@ -1,0 +1,12 @@
+//  XML is a markuplanguage just like html
+// it's about formatting data to a readable language
+<!-- Extensive markup language -->
+<?xml version="1.0" encoding="UTF-8"?>
+<fargo>
+  <movie>
+      <directors names="Ethan Cohen"/> 
+  </movie>
+  <tv-series year="2014">
+  <cast>Martin</cast>
+  </tv-series>
+</fargo>

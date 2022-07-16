@@ -1,0 +1,15 @@
+// JSON - Javascript Object Notation
+//json.org
+//object - curly braces - string - value
+{
+  "fargo": {
+    "movies": {
+      "directories": "Cohen Brothers",
+      "cast": ["William H Macy", "Francis McDonald"]
+    },
+    "tv-series": {
+      "year": 2014,
+      "cast": ["Collin Manks", "Marrtin Freeman"]
+    }
+  }
+}
