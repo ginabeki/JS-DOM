@@ -1,0 +1,5 @@
+// Attributes and properties
+// when the browser loads the page, it reads another word:"parses" the HTML and generates DOM object from it. For element nodes, most standard HTML attributes automatically become properties of DOM objects.
+// for instance, if the tag is <body id="page">, then the DOM object has body.id="page"
+
+//DOM properties

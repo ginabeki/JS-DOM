@@ -37,3 +37,18 @@ setTimeout(() => document.body.style.background = "", 1000);
  * For all nodes: parentNode, childNodes, firstChild, lastChild, previousSibling, nextSibling.
 For element nodes only: parentElement, children, firstElementChild, lastElementChild, previousElementSibling, nextElementSibling.
  */
+// Searching: getElement*, querySelector*
+/**
+ * if an element has the id attribute, we can get the element by using the method - document.getElementById
+ */
+//querySelectorAll
+/**
+ * elem.querySelectorAll(css) returns all elements inside elem matching the given CSS selector.
+ * let elements = document.querySelectorAll("ul > li:last-child")
+ */
+
+//querySelector
+/**
+ * The call to elem.querySelector(css) returns the first element for the given  CSS selector
+ * getElementsBy* is mostly history as querySelector is more powerful and shorter to write.
+ */

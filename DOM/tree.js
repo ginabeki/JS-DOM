@@ -38,3 +38,5 @@ setTimeout(() => document.body.style.background = "", 3000) // return back
  * 3. text nodes- contain text
  * 4. comments - the information won't be shown by JS can read it from the DOM
  */
+// we can use developer tools to inspect DOM and modify it manually.
+// DOM nodes have properties and methodsthat allow us to travel between them, modify them, move around the page, and more.
