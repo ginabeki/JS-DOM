@@ -1,1 +1,3 @@
 # JS-DOM
+- DOM
+- BOM
