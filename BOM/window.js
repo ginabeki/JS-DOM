@@ -7,3 +7,4 @@ window.sayHi();
 
 // also it can be used in the browser windowto show the window height
 alert(window.innerHeight)
+//save
